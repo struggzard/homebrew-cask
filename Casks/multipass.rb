@@ -1,5 +1,5 @@
 cask "multipass" do
-  version " 1.11.1"
+  version "1.11.1"
   sha256 "2661aa736fc3e298fa4db57d8d8641b5cbb23c096327601881808209f08dc380"
 
   on_arm do
